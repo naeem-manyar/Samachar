@@ -20,7 +20,5 @@ object Constants {
 
     const val DATABASE_NAME = "LOGIN_DATABASE"
 
-    const val DEFAULT_SWIPER_DELAY = 4000L
-
     const val INITIAL_POSITION = 0
 }

@@ -7,5 +7,9 @@
     <string name="listen">Listen</string>
     <string name="internet_warming">Check your Internet Connection and Try Again!</string>
     <string name="news_placeholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="tablayout">TabLayout</string>
+    <string name="dummy_news_title">Hello , ypesetter in the book. It usually begins with</string>
+    <string name="saved_news">Saved News</string>
+    <string name="more_menu">More</string>
 
 </resources>

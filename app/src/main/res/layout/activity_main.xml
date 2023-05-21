@@ -30,7 +30,7 @@
             android:layout_height="wrap_content"
             android:background="?attr/colorPrimary"
             app:tabGravity="center"
-            android:contentDescription="tabLayout"
+            android:contentDescription="@string/tablayout"
             app:tabIndicatorColor="@color/white"
             app:tabIndicatorFullWidth="false"
             app:tabMaxWidth="0dp"

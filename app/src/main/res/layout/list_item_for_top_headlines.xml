@@ -29,7 +29,8 @@
                 android:layout_height="match_parent"
                 android:cropToPadding="true"
                 android:scaleType="centerCrop"
-                android:src="@drawable/samplenews" />
+                android:src="@drawable/samplenews"
+                android:contentDescription="@string/news_placeholder" />
 
 
         </com.google.android.material.card.MaterialCardView>
@@ -43,7 +44,7 @@
             android:padding="5dp"
             android:textColor="@color/white"
             style="@style/TitleTextStyle"
-            android:text="Hello , ypesetter in the book. It usually begins with"
+            android:text="@string/dummy_news_title"
             android:textStyle="bold" />
 
     </LinearLayout>

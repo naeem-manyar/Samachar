@@ -3,9 +3,9 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
-        android:title="More"
+        android:title="@string/more_menu"
         android:icon="@drawable/overflow_menu"
-        app:showAsAction="always">
+        app:showAsAction="ifRoom">
 
         <menu>
 

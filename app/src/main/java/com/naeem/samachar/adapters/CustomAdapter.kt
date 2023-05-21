@@ -1,5 +1,6 @@
 package com.naeem.samachar.adapters
 
+import android.annotation.SuppressLint
 import android.content.Context
 import android.os.Build
 import android.view.LayoutInflater
@@ -17,6 +18,7 @@ import org.joda.time.DateTimeZone
 import org.joda.time.Duration
 import kotlin.time.Duration.Companion.hours
 
+@SuppressLint("NotifyDataSetChanged")
 class CustomAdapter(private var newsList: List<NewsModel>) :
     RecyclerView.Adapter<CustomAdapter.ViewHolder>() {
 
@@ -25,7 +27,7 @@ class CustomAdapter(private var newsList: List<NewsModel>) :
     private lateinit var mLongClickListener: OnItemLongClickListener
 
     init {
-        this.notifyDataSetChanged()
+        notifyDataSetChanged()
     }
 
     interface OnItemClickListener {

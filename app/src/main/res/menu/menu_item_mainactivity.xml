@@ -5,7 +5,7 @@
     <item
         android:icon="@drawable/ic_bookmarks"
         app:showAsAction="always"
-        android:title="Saved News"
+        android:title="@string/saved_news"
         android:id="@+id/savednews_menu"/>
 
 

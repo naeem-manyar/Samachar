@@ -54,7 +54,7 @@ class GeneralFragment : Fragment() {
         recyclerView.adapter = adapter
 
 
-        carouselView = view.findViewById<CarouselView>(R.id.home_carousel)
+        carouselView = view.findViewById(R.id.home_carousel)
 
         carouselView.apply {
             size = newsDataForTopHeadlines.size
@@ -93,7 +93,7 @@ class GeneralFragment : Fragment() {
             show()
         }
 
-        // listitem onClick
+        // list-item onClick
         adapter.setOnItemClickListener(object : CustomAdapter.OnItemClickListener {
             override fun onItemClick(position: Int) {
                 val intent = Intent(context, ReadNewsActivity::class.java).apply {
