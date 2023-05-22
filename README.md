@@ -42,6 +42,6 @@ Apk Link (Try it yourself)
 
 ## 📝 License 
 
-Copyright (c) 2022 Naeem Manyar
+Copyright (c) 2023 Naeem Manyar
 
-This project is [MIT](https://github.com/Raj-m01/News-App/blob/master/License) licensed.
+This project is [MIT](https://github.com/naeem-manyar/Samachar/blob/master/LICENSE) licensed.
