@@ -42,6 +42,8 @@ Note: To run the app you have to add NewsAPI.org key. This API has limited acces
 ## Installation
 
 Apk Link (Try it yourself)
+<a href="https://drive.google.com/file/d/1KFs9TxrlGe1utjn9oYXsv5lTj-Ze3uzR/view?usp=sharing">**Click here to download apk**</a>
+
 
 ## Feedback
 
