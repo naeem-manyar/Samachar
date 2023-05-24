@@ -7,7 +7,8 @@
 "Samachar" is a news Android app that utilizes the MVVM architecture, ensuring a seamless browsing experience. It follows clean code principles, making it easier to maintain and enhance. With its intuitive design and efficient data binding, Samachar provides a visually appealing and responsive news reading experience for users. Stay informed with Samachar's powerful MVVM architecture on your Android device.
 
  ## Demo 
- ![](https://github.com/naeem-manyar/Samachar/blob/master/samachar.gif)
+ 
+ <a href="https://drive.google.com/uc?export=view&id=17zV8iOjfk2P98A_Z1YLnYjNokPUpj2mw"><img src="https://drive.google.com/uc?export=view&id=17zV8iOjfk2P98A_Z1YLnYjNokPUpj2mw" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge gif" />
 
 ## Features
 
