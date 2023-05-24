@@ -43,6 +43,9 @@ Note: To run the app you have to add NewsAPI.org key. This API has limited acces
 
 Apk Link (Try it yourself)
 
+## Feedback
+
+If you have any feedback, please reach out to us at mail naeemgmanyar@gmail.com
 
 ## 📝 License 
 
